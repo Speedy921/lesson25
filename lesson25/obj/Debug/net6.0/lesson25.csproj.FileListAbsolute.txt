@@ -1,0 +1,15 @@
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\bin\Debug\net6.0\lesson25.exe
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\bin\Debug\net6.0\lesson25.deps.json
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\bin\Debug\net6.0\lesson25.runtimeconfig.json
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\bin\Debug\net6.0\lesson25.dll
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\bin\Debug\net6.0\lesson25.pdb
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\obj\Debug\net6.0\lesson25.csproj.AssemblyReference.cache
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\obj\Debug\net6.0\lesson25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\obj\Debug\net6.0\lesson25.AssemblyInfoInputs.cache
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\obj\Debug\net6.0\lesson25.AssemblyInfo.cs
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\obj\Debug\net6.0\lesson25.csproj.CoreCompileInputs.cache
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\obj\Debug\net6.0\lesson25.dll
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\obj\Debug\net6.0\refint\lesson25.dll
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\obj\Debug\net6.0\lesson25.pdb
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\obj\Debug\net6.0\lesson25.genruntimeconfig.cache
+C:\Users\newyo\source\repos\Lessons\lesson25\lesson25\obj\Debug\net6.0\ref\lesson25.dll
